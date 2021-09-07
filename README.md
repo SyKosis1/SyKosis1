@@ -7,5 +7,5 @@
       .Python
       .Javascript
       .Angular(HTML,Typescript etc.)
-   P.S : New at this platform. Feel free to add.
+   P.S : Currently new at this platform. Feel free to add.
 -->
